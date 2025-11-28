@@ -1,5 +1,9 @@
 # Git from local machine to remote repo 
 
+**Basically git has three stages**
+
+* **Working Area -> Staging Area -> Commit Area**
+
 ## Types of version control system (VCS)
 
 1) local version control system (deprecated)
@@ -13,13 +17,13 @@
 
 ### The following three commands are used for git authentication
 1) git config --global --list
-2) git config --global user.name <username>
-3) git config --global user.email <email>
+2) git config --global user.name (username)
+3) git config --global user.email (email)
 4) git init
 5) git add
 6) git commit -m "add first file"
-7) git remote add origin <url>
-8) git push -u origin master <your node>
+7) git remote add origin (URL)
+8) git push -u origin master (Your node)
 
 ## Git commands used for remote server to local machine
 
