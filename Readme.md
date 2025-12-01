@@ -30,4 +30,4 @@
 1) git clone
 2) git add
 3) git commit -m
-4) git push
+4) git pus
